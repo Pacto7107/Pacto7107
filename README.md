@@ -17,5 +17,3 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=pacto7107)](https://solved.ac/pacto7107)  
 [![RiseOJ](https://riseoj.com/api/user/Pacto7107/badge.svg)](https://riseoj.com/auth/user/76/)  
-![Static Badge](https://img.shields.io/badge/Pacto-7107-blue)
-
